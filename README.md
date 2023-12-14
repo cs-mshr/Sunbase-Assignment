@@ -4,6 +4,9 @@
 
 This project involves integrating SunBase Portal APIs to manage customer data. The APIs include authentication, creating, retrieving, updating, and deleting customer information. The implementation includes a basic HTML user interface with login functionality and screens for viewing, creating, updating, and deleting customers.
 
+### Video demonstrating the project
+https://youtu.be/6Tc9lD21y_c
+
 ## 1. Project Description:
 
 A Spring MVC web application for Employee Information Management with the following CRUD operations:
